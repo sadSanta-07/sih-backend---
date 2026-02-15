@@ -1,3 +1,26 @@
-this is the whole ML integrated backend for the sih!
+This is the whole ML integrated backend for the SIH!
 
-[alt text](<WhatsApp Image 2026-02-15 at 10.29.54 PM (1).jpeg>) ![alt text](<WhatsApp Image 2026-02-15 at 10.29.42 PM.jpeg>) ![alt text](<WhatsApp Image 2026-02-15 at 10.29.53 PM (1).jpeg>) ![alt text](<WhatsApp Image 2026-02-15 at 10.29.53 PM.jpeg>) ![alt text](<WhatsApp Image 2026-02-15 at 10.29.54 PM.jpeg>)
+---
+
+##  Login Screen
+![Login Screen](IMGs/login screen.jpeg)
+
+---
+
+##  ML Model
+![ML Model](IMGs/ml model.jpeg)
+
+---
+
+## Prediction
+![Prediction](IMGs/prediction.jpeg)
+
+---
+
+## PS
+![PS](IMGs/PS.jpeg)
+
+---
+
+## Student Dashboard
+![Student Dashboard](IMGs/student dashboard.jpeg)

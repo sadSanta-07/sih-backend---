@@ -21,7 +21,3 @@ uploads/
 # VS Code
 .vscode/
 
-# Images (optional if not needed)
-*.png
-*.jpg
-*.jpeg
