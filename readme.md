@@ -1,14 +1,13 @@
 This is the whole ML integrated backend for the SIH!
 
 ---
-
-##  Login Screen
-![Login Screen](IMGs/login screen.jpeg)
+## Login Screen
+![Login Screen](IMGs/login_screen.jpeg)
 
 ---
 
-##  ML Model
-![ML Model](IMGs/ml model.jpeg)
+## ML Model
+![ML Model](IMGs/ml_model.jpeg)
 
 ---
 
@@ -23,4 +22,4 @@ This is the whole ML integrated backend for the SIH!
 ---
 
 ## Student Dashboard
-![Student Dashboard](IMGs/student dashboard.jpeg)
+![Student Dashboard](IMGs/student_dashboard.jpeg)
